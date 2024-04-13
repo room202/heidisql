@@ -12,7 +12,6 @@ https://forest.watch.impress.co.jp/library/software/heidisql/
 「ダウンロード」フォルダに保存する  
 ![](images/002.png)
 
-
 ### インストール
 
 ダウンロードしたファイルを実行  
